@@ -1,5 +1,5 @@
 ---
-title: "CV - Alexandre Camargo Martensen"
+title: "CV Alexandre Camargo Martensen"
 author: "Alexandre Camargo Martensen"
 output: 
   html_document:
