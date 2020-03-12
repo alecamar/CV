@@ -1,12 +1,10 @@
 ---
-title: "My CV"
+title: "CV - Alexandre Camargo Martensen"
 author: "Alexandre Camargo Martensen"
 output: 
   html_document:
     keep_md: true
 ---
-
-<h3><center>Alexandre Camargo Martensen</center></h3>
 
 Contact information:<br>
 **Email:** martensen *at* terra.com.br, acmartensen *at* gmail.com, martensen *at* ufscar.br <br>
@@ -147,6 +145,52 @@ Develey, P.F.; **MARTENSEN**, A.C. 2006. Birds of Morro Grande Reserve. Biota Ne
 
 Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **MARTENSEN**, A.C.; Catharino, L. 2006. Características ecológicas e implicações para a conservação da Reserva Florestal do Morro Grande. BiotaNeotropica, v. 06 (2), p. 01-13.
 <a href="http://www.biotaneotropica.org.br/v6n2/pt/abstract?article+bn01006022006">PDF</a> ISSN 1676-0603
+
+<br>
+<h3>Current students</h3>
+
+**PhD**
+
+Patrícia Silveira - (co-advised with Roberta Averna Valente, PPGPUR - UFSCar)
+
+**Master**
+
+Bharguan Nogueira - (PPGCAm - UFSCar, São Carlos)
+
+Danielle Melo -
+
+Júlio Cesar Lima de Araújo - (co-advised with Vinicius Avelar São Pedro, PPGFAU - UFSCar)
+
+**Undergraduate**
+
+Victoria Ferrari - Biological Sciences (CCN - UFSCar)
+
+Patrick Faria Fernandes - Biological Sciences (CCN - UFSCar)
+
+<br>
+<h3>Former students</h3>
+
+**Master**
+
+Henrique Shirai (co-advised with Alexandre Uezu) - ESCAS, Escola Superior de Conservação e Sustentabilidade
+
+**Undergraduate**
+
+Leonardo Miguel - Environmental Engineering (CCN - UFSCar)
+
+Danielle Melo - Environmental Engineering (CCN - UFSCar)
+
+Beverly Oliveira - Biological Sciences (CCN - UFSCar)
+
+Gabriela Gava - Biological Sciences (CCN - UFSCar)
+
+Gabriela Urushimoto - Biological Sciences (CCN - UFSCar)
+
+Caio Rodrigues Serafim - Biological Sciences (CCN - UFSCar)
+
+Isabela Keppe - Biological Sciences (CCN - UFSCar)
+
+Jaqueline Soares - Biological Sciences (CCN - UFSCar)
 
 <br>
 <h3>Evaluation committee participation</h3>
