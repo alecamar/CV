@@ -17,9 +17,9 @@ ___
 
 **2018-current**: *Assistant Professor, Nature Science Centre, Federal University of São Carlos, Lagoa do Sino* <p>
 
-2012: Substitute professor at UNESP Rio Claro (Ecology)
-
 2007-2018: Director Taki Ambiental
+
+2012: Substitute professor at UNESP Rio Claro (Community Ecology)
 
 2009-2010: Secretary of Agriculture, Environment, Tourism and Sports of Guapiara
 
@@ -46,8 +46,10 @@ ___
 <h3>Publications</h3>
 
 **2020** <p>
- 
-Jun-Long Huang, Marco Andrello, Alexandre Camargo Martensen, Santiago Saura, Dian-Feng Liu, Jian-Hua He, and Marie-Josée Fortin In Press.  Importance of spatio-temporal connectivity to maintain species experiencing range shifts. Ecography. https://doi.org/10.1111/ecog.04716
+
+Borsatto, R.S., Grigoletto, F., Macedo, A. de C. & **MARTENSEN**, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &  Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184.
+
+Jun-Long Huang, Marco Andrello, Alexandre Camargo **MARTENSEN**, Santiago Saura, Dian-Feng Liu, Jian-Hua He, and Marie-Josée Fortin In Press.  Importance of spatio-temporal connectivity to maintain species experiencing range shifts. Ecography. https://doi.org/10.1111/ecog.04716
 
 
 **2019** <p>
@@ -323,7 +325,7 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 
 <h3>Selected talks</h3>
 
-2018 - Perspectivas para a Conservação da Mata Atlântica Brasileira (Semana da Biologia, UFSCar LAgoa do Sino) <p>
+2018 - Perspectivas para a Conservação da Mata Atlântica Brasileira (Semana da Biologia, UFSCar Lagoa do Sino) <p>
 2010 - Forest Institute of São Paulo (IF/SMA/SP), Debate sobre as alterações no Código Florestal<p>
 2010 - Biota targets (FAPESP), Academia Brasileira de Ciências (ABC), Sociedade Brasileira para o Progresso da Ciência (SBPC) - "Atlantic Forest Conservation"<p> 
 2010 - Instituto de Biociências (USP), Debate sobre as alterações no Código Florestal<p>
@@ -415,10 +417,10 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 - Counselor of the Evalutaion Biological Science course (Núcleo Docente Estruturante)
 
 *Community outreach* <p>
-- Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group (www.needs.ufscar.br), main projects: 
-    i. restoration of riparian areas in the Alto Paranapanema river basin (http://www.needs.ufscar.br/extensao), 
+- Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group (www.needs.ufscar.br/extensao), main projects: 
+    i. restoration of riparian areas in the Alto Paranapanema river basin (http://www.needs.ufscar.br/app), 
     ii. landscape ecology courses for the general public and 
-    iii. lecture series at the Lagoa do Sino campus. 
+    iii. lecture series at the Lagoa do Sino campus (http://www.needs.ufscar.br/ciclo). 
 
 *Ongoing Research Projects* <p>
 
