@@ -10,6 +10,9 @@ Contact information:<br>
 **Email:** martensen *at* terra.com.br, acmartensen *at* gmail.com, martensen *at* ufscar.br <br>
 **Phone:**  +55 15 9 9700 9601 + 55 15 3256-9026<br>
 **Website:** http://www.needs.ufscar.br
+**ResearchGate:** https://www.researchgate.net/profile/Alexandre_Martensen
+**Google Scholar:** https://scholar.google.com/citations?user=akY5N4EAAAAJ&hl=en
+**Youtube:** https://www.youtube.com/c/NEEDS_LS/
 
 ___
 
@@ -47,7 +50,7 @@ ___
 
 **2020** <p>
 
-Borsatto, R.S., Grigoletto, F., Macedo, A. de C. & **MARTENSEN**, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &  Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184.
+Borsatto, R.S., Grigoletto, F., Macedo, A. de C. & **MARTENSEN**, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &  Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184 [PDF]("https://www.researchgate.net/profile/Alexandre_Martensen/publication/341931284_Borsatto_RS_Grigoletto_F_Macedo_A_de_C_Martensen_AC_2020_Respostas_dos_municipios_para_garantir_seguranca_alimentar_e_nutricional_em_tempo_de_pandemia_Pp_165-184/links/5eda05244585152945371480/Borsatto-RS-Grigoletto-F-Macedo-A-de-C-Martensen-AC-2020-Respostas-dos-municipios-para-garantir-seguranca-alimentar-e-nutricional-em-tempo-de-pandemia-Pp-165-184.pdf").
 
 Jun-Long Huang, Marco Andrello, Alexandre Camargo **MARTENSEN**, Santiago Saura, Dian-Feng Liu, Jian-Hua He, and Marie-Josée Fortin In Press.  Importance of spatio-temporal connectivity to maintain species experiencing range shifts. Ecography. https://doi.org/10.1111/ecog.04716
 

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Alexandre Camargo Martensen" />
@@ -269,7 +269,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -331,6 +330,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -342,18 +342,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -409,7 +397,7 @@ Publications
 </h3>
 <strong>2020</strong>
 <p>
-<p>Borsatto, R.S., Grigoletto, F., Macedo, A. de C. &amp; <strong>MARTENSEN</strong>, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &amp; Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184.</p>
+<p>Borsatto, R.S., Grigoletto, F., Macedo, A. de C. &amp; <strong>MARTENSEN</strong>, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &amp; Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184 <a href="%22https://www.researchgate.net/profile/Alexandre_Martensen/publication/341931284_Borsatto_RS_Grigoletto_F_Macedo_A_de_C_Martensen_AC_2020_Respostas_dos_municipios_para_garantir_seguranca_alimentar_e_nutricional_em_tempo_de_pandemia_Pp_165-184/links/5eda05244585152945371480/Borsatto-RS-Grigoletto-F-Macedo-A-de-C-Martensen-AC-2020-Respostas-dos-municipios-para-garantir-seguranca-alimentar-e-nutricional-em-tempo-de-pandemia-Pp-165-184.pdf%22">PDF</a>.</p>
 <p>Jun-Long Huang, Marco Andrello, Alexandre Camargo <strong>MARTENSEN</strong>, Santiago Saura, Dian-Feng Liu, Jian-Hua He, and Marie-Josée Fortin In Press. Importance of spatio-temporal connectivity to maintain species experiencing range shifts. Ecography. <a href="https://doi.org/10.1111/ecog.04716" class="uri">https://doi.org/10.1111/ecog.04716</a></p>
 <strong>2019</strong>
 <p>
@@ -941,6 +929,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
