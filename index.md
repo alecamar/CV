@@ -9,10 +9,10 @@ output:
 Contact information:<br>
 **Email:** martensen *at* terra.com.br, acmartensen *at* gmail.com, martensen *at* ufscar.br <br>
 **Phone:**  +55 15 9 9700 9601 + 55 15 3256-9026<br>
-**Website:** http://www.needs.ufscar.br
-**ResearchGate:** https://www.researchgate.net/profile/Alexandre_Martensen
-**Google Scholar:** https://scholar.google.com/citations?user=akY5N4EAAAAJ&hl=en
-**Youtube:** https://www.youtube.com/c/NEEDS_LS/
+**Website:** http://www.needs.ufscar.br <br>
+**ResearchGate:** https://www.researchgate.net/profile/Alexandre_Martensen <br>
+**Google Scholar:** https://scholar.google.com/citations?user=akY5N4EAAAAJ&hl=en <br>
+**Youtube:** https://www.youtube.com/c/NEEDS_LS/ <br>
 
 ___
 
@@ -164,13 +164,15 @@ Bharguan Nogueira - (PPGCAm - UFSCar, São Carlos)
 
 Danielle Melo -
 
-Júlio Cesar Lima de Araújo - (co-advised with Vinicius Avelar São Pedro, PPGFAU - UFSCar)
+Júlio Cesar Lima de Araújo - (co-advised with Vinicius Avelar São Pedro)
 
 **Undergraduate**
 
 Victoria Ferrari - Biological Sciences (CCN - UFSCar)
 
 Patrick Faria Fernandes - Biological Sciences (CCN - UFSCar)
+
+Stephany Melo - Environmental Engineering (CCN - UFSCar)
 
 <br>
 <h3>Former students</h3>
