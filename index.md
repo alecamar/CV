@@ -48,7 +48,11 @@ ___
 
 <h3>Publications</h3>
 
+**2021** <p>
+Grelle, CEV; Bayma, AP; Paixão, LRL;  Egler, M; Senta, MMD; Jenkins, CN; Uezu, A; Pellin, A; **MARTENSEN**, AC; Shirai, H; Soares, N; Lima, F;  Fernandez, E; Pougy, N; Martinelli, G; Mesquita, CA; Mantovani, M;  Fernandez, FAS; Rheingantz, ML; Vieira, MV. Conservation initiatives in the Brazilian Atlantic forest. In: The Atlantic Forest: History, Biodiversity, Threats and Opportunities of the Mega-diverse Forest. Marques, M & Grelle, CEV. Pp: 421-449. Springer. https://doi.org/10.1007/978-3-030-55322-7_20
+  
 **2020** <p>
+Rosa, C.A., Ribeiro, B.R., Bejarano, V., Puertas, F.H., Bocchiglieri, A., Barbosa, A.L.S., Chiarello, A.G., Paglia, A.P., Pereira, A.A., Moreira, A.F.S., Souza, A.C., Pellegrin, A., Gatica, A., Medeiro, A.Z., Pereira, A.D., Braz, A.G., Yanosky, A., Valenzuela, A.E.J., Bertassoni, A., Prado, A.S.V., Nava, A.F.D., Rocha, A., Bovo, A.A.A., Bager, A., Cravino, A., Pires, A.S., **MARTENSEN**, A.C., et al. 2020. NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics. Ecology. https://doi.org/10.1002/ecy.3115 
 
 Borsatto, R.S., Grigoletto, F., Macedo, A. de C. & **MARTENSEN**, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &  Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184 [PDF]("https://www.researchgate.net/profile/Alexandre_Martensen/publication/341931284_Borsatto_RS_Grigoletto_F_Macedo_A_de_C_Martensen_AC_2020_Respostas_dos_municipios_para_garantir_seguranca_alimentar_e_nutricional_em_tempo_de_pandemia_Pp_165-184/links/5eda05244585152945371480/Borsatto-RS-Grigoletto-F-Macedo-A-de-C-Martensen-AC-2020-Respostas-dos-municipios-para-garantir-seguranca-alimentar-e-nutricional-em-tempo-de-pandemia-Pp-165-184.pdf").
 
