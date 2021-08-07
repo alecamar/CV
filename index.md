@@ -47,8 +47,6 @@ ___
 
 <h3>Publications</h3>
 
-<<<<<<< HEAD
-
 **2021** <p>
 
 Martensen, A.C. 2021. A importância da dinâmica espaço-temporal na análise de paisagens fragmentadas. Pp 311-330. In Ribeiro, S.M.C., Boscolo, D., Ciochetti, G., Firmino, A. & Guiomar, N. (org). Ecologia da Paisagem no contexto Luso-Brasileiro. Vol I. Apris editora, Curitiba, PR, Brasil. [PDF]("https://www.needs.ufscar.br/2021_ribeiro_boscolo_et-al_ep-no-contexto-lusobrasileiro_vol-i-264-280.pdf")
@@ -57,11 +55,6 @@ Martensen, A.C. , Surová, D., Oliveira, U. & Quinta-Nova, L. 2021. Coleta de da
 
 Grelle, CEV; Bayma, AP; Paixão, LRL;  Egler, M; Senta, MMD; Jenkins, CN; Uezu, A; Pellin, A; Martensen, AC; Shirai, H; Soares, N; Lima, F;  Fernandez, E; Pougy, N; Martinelli, G; Mesquita, CA; Mantovani, M;  Fernandez, FAS; Rheingantz, ML; Vieira, MV. Conservation initiatives in the Brazilian Atlantic forest. In: The Atlantic Forest: History, Biodiversity, Threats and Opportunities of the Mega-diverse Forest. Marques, M & Grelle, CEV. Pp: 421-449. Springer.  https://doi.org/10.1007/978-3-030-55322-7_20
 
-=======
-**2021** <p>
-Grelle, CEV; Bayma, AP; Paixão, LRL;  Egler, M; Senta, MMD; Jenkins, CN; Uezu, A; Pellin, A; **MARTENSEN**, AC; Shirai, H; Soares, N; Lima, F;  Fernandez, E; Pougy, N; Martinelli, G; Mesquita, CA; Mantovani, M;  Fernandez, FAS; Rheingantz, ML; Vieira, MV. Conservation initiatives in the Brazilian Atlantic forest. In: The Atlantic Forest: History, Biodiversity, Threats and Opportunities of the Mega-diverse Forest. Marques, M & Grelle, CEV. Pp: 421-449. Springer. https://doi.org/10.1007/978-3-030-55322-7_20
-  
->>>>>>> 5059ca10bc090d4ed65a762d1426e1c9fa07d081
 **2020** <p>
 Rosa, C.A., Ribeiro, B.R., Bejarano, V., Puertas, F.H., Bocchiglieri, A., Barbosa, A.L.S., Chiarello, A.G., Paglia, A.P., Pereira, A.A., Moreira, A.F.S., Souza, A.C., Pellegrin, A., Gatica, A., Medeiro, A.Z., Pereira, A.D., Braz, A.G., Yanosky, A., Valenzuela, A.E.J., Bertassoni, A., Prado, A.S.V., Nava, A.F.D., Rocha, A., Bovo, A.A.A., Bager, A., Cravino, A., Pires, A.S., **MARTENSEN**, A.C., et al. 2020. NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics. Ecology. https://doi.org/10.1002/ecy.3115 
 
