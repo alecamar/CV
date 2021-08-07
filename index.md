@@ -7,12 +7,11 @@ output:
 ---
 
 Contact information:<br>
-**Email:** martensen *at* terra.com.br, acmartensen *at* gmail.com, martensen *at* ufscar.br <br>
+**Email:** acmartensen *at* gmail.com, martensen *at* ufscar.br <br>
 **Phone:**  +55 15 9 9700 9601 + 55 15 3256-9026<br>
-**Website:** http://www.needs.ufscar.br <br>
+**Lab Website:** http://www.needs.ufscar.br <br>
 **ResearchGate:** https://www.researchgate.net/profile/Alexandre_Martensen <br>
 **Google Scholar:** https://scholar.google.com/citations?user=akY5N4EAAAAJ&hl=en <br>
-**Youtube:** https://www.youtube.com/c/NEEDS_LS/ <br>
 
 ___
 
@@ -48,7 +47,18 @@ ___
 
 <h3>Publications</h3>
 
+
+**2021** <p>
+
+Martensen, A.C. 2021. A importância da dinâmica espaço-temporal na análise de paisagens fragmentadas. Pp 311-330. In Ribeiro, S.M.C., Boscolo, D., Ciochetti, G., Firmino, A. & Guiomar, N. (org). Ecologia da Paisagem no contexto Luso-Brasileiro. Vol I. Apris editora, Curitiba, PR, Brasil. [PDF]("https://www.needs.ufscar.br/2021_ribeiro_boscolo_et-al_ep-no-contexto-lusobrasileiro_vol-i-264-280.pdf")
+
+Martensen, A.C. , Surová, D., Oliveira, U. & Quinta-Nova, L. 2021. Coleta de dados no campo (Biológicos e Social). Pp 345-378. In Ribeiro, S.M.C., Boscolo, D., Ciochetti, G., Firmino, A. & Guiomar, N. (org). Ecologia da Paisagem no contexto Luso-Brasileiro. Vol I. Apris editora, Curitiba, PR, Brasil. [PDF]("https://www.needs.ufscar.br/2021_ribeiro_boscolo_et-al_ep-no-contexto-lusobrasileiro_vol-i-293-320.pdf") 
+
+Grelle, CEV; Bayma, AP; Paixão, LRL;  Egler, M; Senta, MMD; Jenkins, CN; Uezu, A; Pellin, A; Martensen, AC; Shirai, H; Soares, N; Lima, F;  Fernandez, E; Pougy, N; Martinelli, G; Mesquita, CA; Mantovani, M;  Fernandez, FAS; Rheingantz, ML; Vieira, MV. Conservation initiatives in the Brazilian Atlantic forest. In: The Atlantic Forest: History, Biodiversity, Threats and Opportunities of the Mega-diverse Forest. Marques, M & Grelle, CEV. Pp: 421-449. Springer.  https://doi.org/10.1007/978-3-030-55322-7_20
+
 **2020** <p>
+
+Rosa, C.A., Ribeiro, B.R., Bejarano, V., Puertas, F.H., Bocchiglieri, A., Barbosa, A.L.S., Chiarello, A.G., Paglia, A.P., Pereira, A.A., Moreira, A.F.S., Souza, A.C., Pellegrin, A., Gatica, A., Medeiro, A.Z., Pereira, A.D., Braz, A.G., Yanosky, A., Valenzuela, A.E.J., Bertassoni, A., Prado, A.S.V., Nava, A.F.D., Rocha, A., Bovo, A.A.A., Bager, A., Cravino, A., Pires, A.S., Martensen, A.C., et al. 2020. NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics. Ecology. https://doi.org/10.1002/ecy.3115 
 
 Borsatto, R.S., Grigoletto, F., Macedo, A. de C. & **MARTENSEN**, A. C. 2020. Respostas dos municípios para garantir segurança alimentar e nutricional em tempo de pandemia. In: Valencio, N. &  Oliveira, C.M. de: COVID-19: crises entremeadas no contexto de pandemia (antecedentes, cenários e recomendações) - UFSCar/CPOI: Pp 165-184 [PDF]("https://www.researchgate.net/profile/Alexandre_Martensen/publication/341931284_Borsatto_RS_Grigoletto_F_Macedo_A_de_C_Martensen_AC_2020_Respostas_dos_municipios_para_garantir_seguranca_alimentar_e_nutricional_em_tempo_de_pandemia_Pp_165-184/links/5eda05244585152945371480/Borsatto-RS-Grigoletto-F-Macedo-A-de-C-Martensen-AC-2020-Respostas-dos-municipios-para-garantir-seguranca-alimentar-e-nutricional-em-tempo-de-pandemia-Pp-165-184.pdf").
 
@@ -154,17 +164,13 @@ Metzger, J.P.; Alves, L.; Pardini, R.; Dixo, M.O.; Nogueira, A.; Negrão, M.; **
 <br>
 <h3>Current students</h3>
 
-**PhD**
-
-Patrícia Silveira - (co-advised with Roberta Averna Valente, PPGPUR - UFSCar)
-
 **Master**
 
 Bharguan Nogueira - (PPGCAm - UFSCar, São Carlos)
 
-Danielle Melo -
+Danielle Melo - (PPGCAm - UFSCar, São Carlos)
 
-Júlio Cesar Lima de Araújo - (co-advised with Vinicius Avelar São Pedro)
+Júlio Cesar Lima de Araújo - (PPGCAm - UFSCar, São Carlos, co-advised by Vinicius Avelar São Pedro)
 
 **Undergraduate**
 
@@ -204,6 +210,10 @@ Jaqueline Soares - Biological Sciences (CCN - UFSCar)
 
 **Appraisals**
 
+Yara Campos Miranda. 2020. Sensoriamento remoto como ferramenta para análise espaço-temporal de dados ambientais.  Exame de qualificação Doutorando PPGCAm/UFSCar.
+
+Jamily da Silva Fernandes. 2020. Políticas públicas locais como estratégias para o uso sustentável do solo e provisão de serviços ecossistêmicos. Exame de qualificação, Mestrando em Agroecologia e Desenvolvimento Rural/UFSCar.
+
 Henrique Shirai. Áreas Prioritárias para Conservação na Mata Atlântica. 2019. Exame de qualificação (Mestrando em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
 Pedro Henrique de Godoy Fernandes. Biodiversidade: Hierarquias, Interacoes e hotspots. 2019. Exame de qualificação (Mestrando em Ciências Ambientais) - PPGCAm - Programa de Pós-Graduacão em Ciências Ambientais - UFSCar.
@@ -232,7 +242,13 @@ Tamires Aparecida Machado. Ocorrência de bromélias em fragmentos florestais. 2
 
 **Masters  dissertation**
 
+Renato Augusto Martins. Influência da desconexão de habitat na quitridiomicose e no microbioma cutâneo de anfíbios anuros. 2020.  PPGCFAU/UFSCar.
+
+Sóstenes José Souza Pelegrini. Considerando alterações climáticas na escolha de áreas para conservação de serpentes na Região Hidrográfica Tocantins- Araguaia. 2020. PPGCFAU/UFSCar.
+
 Camila Francisco Gonçalves. Ocorrência das espécies de carnívoros e artiodáctilos do Parque Nacional de Itatiaia e suas relação com o hábitat. 2020. Dissertação Mestrado - PPGERN/UFSCar.
+
+MAriana Eiko Mendes. A importância das paisagens refúgios na prevenção de extinções de espécies endêmicas. 2020. UFABC.
 
 Henrique Shirai. Dinâmica da Conectividade da paisagem em ecossistemas fragmentados: Caso da Mata Atlântica. 2019. Dissertação (Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
@@ -241,6 +257,8 @@ Marina Pannunzio Ribeiro. Avaliação da conectividade florestal em paisagem urb
 Analuce de Araújo Abreu. Proposição de critérios para a avaliação de negócios que tem base na agricultura familiar e prerrogativas de responsabilidade socioambiental. 2018. Dissertação (Mestrado em Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
 **PhD thesis**
+
+Fernando Lima. Alterações ambientais e seus impactos na cadeia trófica de mamíferos. 2021. Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade, UNESP/Rio Claro.
 
 Anthony Santana Ferreira. *Allobates femoralis* como modelo para caracterizar clines geográficos nítidos na bacia Amazônica 2018. Tese (Doutorado em Biologia (Ecologia)) - Instituto Nacional de Pesquisas da Amazônia, Conselho Nacional de Desenvolvimento Científico e Tecnológico.
 
@@ -283,9 +301,11 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
 <br>
 <h3>Grants and Funding</h3>
 
-- Regular grant, researcher (FAPESP) - 2019-2012
+- 
 
-- Young Research Award, coordinator; International Colaboration FAPESP/NWO (The Netherlands) - 2019-2023<p>
+- Regular grant, researcher (FAPESP - 2019/19429-3) - 2019-2012
+
+- Young Research Award, coordinator; International Colaboration FAPESP/NWO (The Netherlands) - (2018/20501-8) 2019-2023<p>
 
 - Connaught International Scholarships for Doctoral Students (2012-2016, CAD$150,000)<p>
 
@@ -367,6 +387,7 @@ Rafaela Guimarães Silva. Spatial strategies for Cerrado biome conservation: a m
     
 - Grant Reviewer:
     - FAPESP
+    - PIBIC/CNPq
 
 - Vice-president of the International Association of Landscape Ecology, Brazilian Chapter (2010-Current)
 
@@ -426,11 +447,13 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
     i. restoration of riparian areas in the Alto Paranapanema river basin (http://www.needs.ufscar.br/app), 
     ii. landscape ecology courses for the general public and 
     iii. lecture series at the Lagoa do Sino campus (http://www.needs.ufscar.br/ciclo). 
+- OHTA, G. ; GRIGOLETTO, F. ; ALVES, M. A. ; MARTENSEN, A. C. ; MOMESSO, C. C. . [Política Ambiental Suicida ou o 'Vírus Lógico da Repressão - VLR']("https://politica.estadao.com.br/blogs/gestao-politica-e-sociedade/politica-ambiental-suicida-ou-o-virus-logico-da-repressao-vlr/"). Blog do Estadão.
+
 
 *Ongoing Research Projects* <p>
 
-- Coordinator of the International Colaboration Project (FAPESP/NWO - The Netherlands), "Governing the Atlantic Forest transition: Improving our knowledge on forest recovery for ecosystem services" (2019-2023)
-- Researcher of the project: Resilience of multifunctional landscape in the face of climate change (FAPESP) (2019-2021)
+- Coordinator of the International Colaboration Project (FAPESP/NWO - The Netherlands), "Governing the Atlantic Forest transition: Improving our knowledge on forest recovery for ecosystem services" (2018/20501-8, 2019-2023)
+- Researcher of the project: Resilience of multifunctional landscape in the face of climate change (FAPESP, 2019/19429-3, 2019-2021)
 
 
 **Director of Taki Ambiental (2007-2018)** <p>
