@@ -255,7 +255,7 @@ Sóstenes José Souza Pelegrini. Considerando alterações climáticas na escolh
 
 Camila Francisco Gonçalves. Ocorrência das espécies de carnívoros e artiodáctilos do Parque Nacional de Itatiaia e suas relação com o hábitat. 2020. Dissertação Mestrado - PPGERN/UFSCar.
 
-MAriana Eiko Mendes. A importância das paisagens refúgios na prevenção de extinções de espécies endêmicas. 2020. UFABC.
+Mariana Eiko Mendes. A importância das paisagens refúgios na prevenção de extinções de espécies endêmicas. 2020. UFABC.
 
 Henrique Shirai. Dinâmica da Conectividade da paisagem em ecossistemas fragmentados: Caso da Mata Atlântica. 2019. Dissertação (Mestrado profissionalizante) - Escola Superior de Conservação Ambiental e Sustentabilidade.
 
@@ -452,9 +452,13 @@ II Brazilian Conference of Landscape Ecology, Salvador, Bahia, Brazil (2012)
 *Community outreach* <p>
 - Coordinator of the NEEDS (Núcleo de Estudos em Ecologia Espacial e Desenvolvimento Sustentável), Spatial ecology and sustainable development group (www.needs.ufscar.br/extensao), main projects: 
     i. restoration of riparian areas in the Alto Paranapanema river basin (http://www.needs.ufscar.br/app), 
-    ii. landscape ecology courses for the general public and 
-    iii. lecture series at the Lagoa do Sino campus (http://www.needs.ufscar.br/ciclo). 
-- OHTA, G. ; GRIGOLETTO, F. ; ALVES, M. A. ; MARTENSEN, A. C. ; MOMESSO, C. C. . [Política Ambiental Suicida ou o 'Vírus Lógico da Repressão - VLR']("https://politica.estadao.com.br/blogs/gestao-politica-e-sociedade/politica-ambiental-suicida-ou-o-virus-logico-da-repressao-vlr/"). Blog do Estadão.
+    ii. [online courses]("https://www.youtube.com/c/NEEDS_LS/playlists") for the general public   
+    iii. lecture series at the Lagoa do Sino campus (http://www.needs.ufscar.br/ciclo)
+    iv. Social media science communication (our channels at [youtube]("https://www.youtube.com/c/NEEDS_LS"), [facebook]("https://www.facebook.com/needs.ls"), [Instagram]("https://www.instagram.com/needs_ls/"), [Twitter]("https://twitter.com/NEEDS_LS"))
+    v. Sustainable use of the juçara fruits in the Atlantic Forest  (Ciano Alimentos Sustentáveis, Juçaí, FAI/UFSCar)
+    vi. Biodiversity corridors for the construction of sustainable landscapes  (Suzano, IPÊ, FAI/UFSCar)
+
+- Ohta, G.; Grigoletto, F.; Alves, M.A.; **Martensen, A.C.**; Momesso, C.C. [Política Ambiental Suicida ou o 'Vírus Lógico da Repressão - VLR']("https://politica.estadao.com.br/blogs/gestao-politica-e-sociedade/politica-ambiental-suicida-ou-o-virus-logico-da-repressao-vlr/"). Blog do Estadão.
 
 
 *Ongoing Research Projects* <p>
@@ -540,14 +544,8 @@ R, MarkDown, HTML, ArcGIS, basic Python and SQL
 
 <h3>Outreach</h3>
 
-GitHub <a href="https://github.com/alecamar"> alecamar</a>
+GitHub <a href="https://github.com/alecamar"> alecamar</a>, <a href="https://www.researchgate.net/profile/Alexandre_Martensen"> Researchgate  </a>, <a href="https://utoronto.academia.edu/AlexandreMartensen"> Academia </a>, <a href="http://orcid.org/0000-0001-9017-7480"> ORCID </a>, <a href="http://scholar.google.ca/citations?user=akY5N4EAAAAJ&hl=en"> Google Scholar </a>
 
-<a href="https://www.researchgate.net/profile/Alexandre_Martensen"> Researchgate  </a>
+<h3>Lab Outreach</h3>
 
-<a href="https://utoronto.academia.edu/AlexandreMartensen"> Academia </a>
-
-<a href="http://orcid.org/0000-0001-9017-7480"> ORCID </a>
-
-<a href="http://scholar.google.ca/citations?user=akY5N4EAAAAJ&hl=en"> Google Scholar </a>
-
-<a href="http:www.needs.ufscar.br"> Lab website </a>
+<a href="http:www.needs.ufscar.br"> Lab website </a> , [Lab youtube channel]("https://www.youtube.com/c/NEEDS_LS"),  [Lab facebook]("https://www.facebook.com/needs.ls"), [Lab instagram]("https://www.instagram.com/needs_ls/"), [Lab on twitter]("https://twitter.com/NEEDS_LS")
